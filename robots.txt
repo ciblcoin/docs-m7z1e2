@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-jamkju.cuansalam.cfd/sitemap.xml
